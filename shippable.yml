@@ -1,0 +1,6 @@
+language: python
+python:
+  - 2.7
+install:
+  - apt-get install freetype*
+  - pip install matplotlib
